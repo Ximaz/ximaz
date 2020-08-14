@@ -6,6 +6,10 @@ You can join my Discord server to talk with community and may getting help if so
 
 [![Discord](https://img.shields.io/discord/719631917779124325?label=Chat&logo=Discord&style=for-the-badge)](https://discord.gg/VPzU9hu)
 
+# My Github stats :
+![stats](https://github-readme-stats.vercel.app/api?username=obvious-ly-sh&show_icons=true&theme=radical)
+![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=obvious-ly-sh&theme=radical)
+
 Also, if you like my projects or if you want to support me, have money for and want to, you can make a donation here :
 
 [![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/codingdotexe)
