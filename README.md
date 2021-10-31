@@ -4,7 +4,7 @@
 I'm Quatrecentquatre and I'm from France. I'm a student and a websites/scripts developper. I'm doing funny things such as Python scripts to download content on Rule34, TikTok, 9gag and Reddit, or some serious stuff, such as a Kaiheila API wrapper released on npm. I'm also doing videos on YouTube, where I talk french. Sorry for english people who don't know well the french language. You can contact me through my social media that you can find on my biography. Have fun !
 <hr>
 
-### Programming Languages
+### Mastered Languages
 <img width="35px" src="./assets/python.png">
 <img width="35px" src="./assets/typescript.png">
 <img width="35px" src="./assets/javascript.png">
