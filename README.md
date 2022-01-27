@@ -15,7 +15,7 @@ I'm **Quatrecentquatre-404**, a french full stack developper. There is a list of
 
 <div align="center">
 
-I work on many kind of project such as [Pornhub Downloader](https://github.com/Quatrecentquatre-404/pornhub-downloader), [Instagram Downloader](https://github.com/Quatrecentquatre-404/instagram-downloader), [Rule34 Downloader](https://github.com/Quatrecentquatre-404/rule34-downloader) and so, but also an Instagram (Guest) API on [Python](https://github.com/quatrecentquatre-404/IGA-py), [JavaScript](https://github.com/quatrecentquatre-404/IGA-js) and [Bash](https://github.com/quatrecentquatre-404/IGA-bash) for now, which allows anyone to gather public data from an account without being logged.
+I work on many kind of project such as [a C stack implementation](https://github.com/Quatrecentquatre-404/stack), a [Kaiheila JS API](https://github.com/Quatrecentquatre-404/kaiheila.js), a [Request JS module](https://github.com/Quatrecentquatre-404/requests) (XHR wrapper), and so on. Go check my [repositories](https://github.com/Quatrecentquatre-404?tab=repositories) to see more. :)
 
 </div>
 
