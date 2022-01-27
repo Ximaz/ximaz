@@ -1,11 +1,17 @@
 # Hi everyone !
 
-I'm **Quatrecentquatre-404**, a french full stack developper. There is a list of languages I master :
+I'm **Quatrecentquatre-404**, a french full stack developper.
+
+Languages I master :
 - ``Python``,
 - ``JavaScript`` / ``Node JS`` / ``TypeScript``,
 - ``HTML`` / ``CSS`` / ``PHP``,
-- ``Bash``,
-- A bit of ``Assembly Intel x86 (NASM)``.
+- ``Bash``.
+
+Languages I'm currently learning :
+- ``C``,
+- ``C++``,
+- ``Assembly Intel x86 (NASM)``.
 
 <div align="center"><img src="https://raw.githubusercontent.com/Quatrecentquatre-404/assets/main/images/Hacker_Man.gif"></div>
 
@@ -15,7 +21,7 @@ I'm **Quatrecentquatre-404**, a french full stack developper. There is a list of
 
 <div align="center">
 
-I work on many kind of project such as [a C stack implementation](https://github.com/Quatrecentquatre-404/stack), a [Kaiheila JS API](https://github.com/Quatrecentquatre-404/kaiheila.js), a [Request JS module](https://github.com/Quatrecentquatre-404/requests) (XHR wrapper), and so on. Go check my [repositories](https://github.com/Quatrecentquatre-404?tab=repositories) to see more. :)
+I work on many kind of project such as a [C stack implementation](https://github.com/Quatrecentquatre-404/stack), a [Kaiheila JS API](https://github.com/Quatrecentquatre-404/kaiheila.js), a [Request JS module](https://github.com/Quatrecentquatre-404/requests) (XHR wrapper), and so on. Go check my [repositories](https://github.com/Quatrecentquatre-404?tab=repositories) to see more. :)
 
 </div>
 
