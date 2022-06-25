@@ -21,7 +21,7 @@ Languages I'm currently learning :
 
 <div align="center">
 
-I work on many kind of project such as a [C stack implementation](https://github.com/Ximaz/stack), a [Kaiheila JS API](https://github.com/Ximaz/kaiheila.js), a [Request JS module](https://github.com/Quatrecentquatre-404/requests) (XHR wrapper), and so on. Go check my [repositories](https://github.com/Ximaz?tab=repositories) to see more. :)
+I work on many kind of project such as a [C stack implementation](https://github.com/Ximaz/stack), a [Kaiheila JS API](https://github.com/Ximaz/kaiheila.js), a [Request JS module](https://github.com/Ximaz/requests) (XHR wrapper), and so on. Go check my [repositories](https://github.com/Ximaz?tab=repositories) to see more. :)
 
 </div>
 
