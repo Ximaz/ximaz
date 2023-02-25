@@ -5,7 +5,6 @@ I'm **Ximaz**, a french full stack developper.
 Languages I master :
 - ``Python``,
 - ``C``,
-- ``C++``,
 - ``Assembly Intel x86 (NASM)``.
 - ``JavaScript`` / ``Node JS`` / ``TypeScript``,
 - ``HTML`` / ``CSS`` / ``PHP``,
