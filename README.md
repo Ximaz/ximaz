@@ -52,8 +52,7 @@ Remember when I said I don't like to be restrained ? Well, I don't like to have 
 
 ##### Frameworks & Libraries
 
-![](https://img.shields.io/badge/Requests-000000?style=for-the-badge&logo=python)
-![](https://img.shields.io/badge/Node%20JS-000000?style=for-the-badge&logo=node.js)
+![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=python)
 ![](https://img.shields.io/badge/Electron-000000?style=for-the-badge&logo=electron)
 ![](https://img.shields.io/badge/Express%20JS-000000?style=for-the-badge&logo=express)
 
